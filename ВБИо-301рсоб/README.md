@@ -15,3 +15,6 @@
 ||две вертикальные черты с двух сторон||
 
 :w ! pandoc -s | xclip -t text/html -selection clipboard
+
+##
+<tab><tab>code/text here
