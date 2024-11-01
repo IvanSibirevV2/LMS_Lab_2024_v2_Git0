@@ -16,5 +16,5 @@
 
 :w ! pandoc -s | xclip -t text/html -selection clipboard
 
-##
-<tab><tab>code/text here
+######       
+    java -jar .\target\myai-0.0.1-SNAPSHOT.jar  
